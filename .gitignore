@@ -3,6 +3,8 @@
 Thumbs.db
 Desktop.ini
 
+# Build output
+dist/
 # Python
 __pycache__/
 *.py[cod]
